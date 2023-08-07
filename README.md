@@ -16,9 +16,9 @@
 - Class of Orbit
 
 ## 🤓 Data Wrangling
-The majority of the issues were in the expected lifetime column. Some of the data was in ranges while others were just a specific number. To tackle this issue, I replaced the range with the mean. 
-I also had to create dummy variables for class of orbit as it was one categorical column. Creating the dummy variables allowed me to make comparisons between how the different orbits behaved. 
-There were null values in both the expected lifetime column and in the launch mass column, so I deleted the null rows to avoid any complications with the data. 
+- The majority of the issues were in the expected lifetime column. Some of the data was in ranges while others were just a specific number. To tackle this issue, I replaced the range with the mean. 
+- I also had to create dummy variables for class of orbit as it was one categorical column. Creating the dummy variables allowed me to make comparisons between how the different orbits behaved. 
+- There were null values in both the expected lifetime column and in the launch mass column, so I deleted the null rows to avoid any complications with the data. 
 
 ## 🔬 Hypotheses
 H0 : Satellites in GEO will have a similar life expectancy compared to those in other orbits                   
