@@ -21,8 +21,8 @@ I also had to create dummy variables for class of orbit as it was one categorica
 There were null values in both the expected lifetime column and in the launch mass column, so I deleted the null rows to avoid any complications with the data. 
 
 ## 🔬 Hypotheses
-H0 : Satellites in GEO will have a similar life expectancy 	compared to those in other orbits
-H1 : Satellites in GEO will have a longer life expectancy 	compared to those in other orbits
+H0 : Satellites in GEO will have a similar life expectancy compared to those in other orbits                   
+H1 : Satellites in GEO will have a longer life expectancy compared to those in other orbits             
 
 ## 🧪 Hypotheses Testing
 ![image](https://github.com/joshlynj/active_satellites/assets/96899068/37143179-f237-4a8a-ac53-5ca8cce17e71)           
