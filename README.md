@@ -30,7 +30,7 @@ I decided to use an ANOVA test for my hypothesis as it allowed me to determine w
 This test compares the variability within each orbit to the variability between the orbits and calculates a test statistic and p-value to assess the significance of the differences.   
 In this test, I set my significance level to 0.05 which means that if the p-value is greater than 0.05 then we do not have enough evidence to reject the null hypothesis.     
 In this case, our P value is significantly smaller than 0.05 which means that we can reject the null hypothesis, proving that satellites in GEO have a longer life expectancy than those in other orbits.           
-I also used a Tukey HSD after completing the ANOVA test which shows the specific comparison between each group. It shows the mean difference in years 
+I also used a Tukey HSD after completing the ANOVA test which shows the specific comparison between each group. It shows the mean difference in years. It also shows that in each scenario we can reject the null hypothesis. 
 
 
 
