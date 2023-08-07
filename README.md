@@ -55,6 +55,8 @@ between satellite characteristics
 The model, based on the Ordinary Least Squares (OLS) method, demonstrates a reasonable fit to the data with an R-squared value of 0.604, indicating that approximately 60.4% of the variance in the expected lifetime of satellites is explained by the chosen predictor variables.              
 
 The F-statistic of 361.3 and associated low probability value (p-value) affirm the overall significance of the regression, implying that the model as a whole is meaningful.  
+        
+![image](https://github.com/joshlynj/active_satellites/assets/96899068/9d92057f-ff86-4192-9f89-c549af8cfd3e)          
 
 
 ## 🌠 Original Dataset
