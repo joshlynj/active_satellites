@@ -1,11 +1,11 @@
 ## 🌌 Satellite Life Expectancy 
 
 ## 💼 Stakeholder Interest
-Knowing about what affects the life of a satellite allows for better mission planning, including scheduling replacements or adjustments to ensure continuous and reliable satellite coverage.
-Understanding the factors that affect satellite lifetimes, such as orbit type, can help the military allocate resources effectively by choosing the most suitable orbits for different types of missions. 
-Satellites play a crucial role in maintaining situational awareness, command and control, and communication during various operations. Knowing which orbits provide longer lifetimes can contribute to more reliable and sustained operations.
-Satellite development, launch, and maintenance are extremely costly. By understanding factors that influence satellite longevity, the military can make informed decisions about investment in satellite technology, design, and orbits to optimize the cost-effectiveness of their satellite programs.
-Space situational awareness, which involves monitoring and tracking objects in space, helps to prevent collisions and protect satellites from potential threats. Knowledge of satellite lifetimes can aid in predicting end-of-life scenarios and potential debris creation.
+- Knowing about what affects the life of a satellite allows for better mission planning, including scheduling replacements or adjustments to ensure continuous and reliable satellite coverage.
+- Understanding the factors that affect satellite lifetimes, such as orbit type, can help the military allocate resources effectively by choosing the most suitable orbits for different types of missions.  
+- Satellites play a crucial role in maintaining situational awareness, command and control, and communication during various operations. Knowing which orbits provide longer lifetimes can contribute to more reliable and sustained operations.
+- Satellite development, launch, and maintenance are extremely costly. By understanding factors that influence satellite longevity, the military can make informed decisions about investment in satellite technology, design, and orbits to optimize the cost-effectiveness of their satellite programs.
+- Space situational awareness, which involves monitoring and tracking objects in space, helps to prevent collisions and protect satellites from potential threats. Knowledge of satellite lifetimes can aid in predicting end-of-life scenarios and potential debris creation.
 
 ## ☄ Data of Interest
 - Expected Lifetime (Years)
