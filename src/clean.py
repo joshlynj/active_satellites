@@ -41,8 +41,16 @@ def remove_space(value):
     return value.replace('LEO ', 'LEO')
 
 
+def get_dummies(sat_df):
+    ''' Function takes in a dataframe
+        Returns a dataframe with dummies'''
+    orbit_df = pd.get_dummies(sat_df, columns=["Class of Orbit"])
+    return orbit_df
+
+
 if __name__ == '__main__':
     print(drop_na(sat_df))
     print(sat_df['Expected Lifetime (Years)'].apply(clean_lifetime))
     print(make_numeric(sat_df))
     print(sat_df.apply(remove_space))
+    print(get_dummies(sat_df))
