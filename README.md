@@ -1,4 +1,5 @@
 ## 🌌 Satellite Life Expectancy 
+The project involves the analysis of satellite data to gain insights into factors affecting the expected lifetime of satellites. The data is preprocessed, including cleaning and transformation of features, and then used to perform statistical analyses such as linear regression, ANOVA, and post hoc tests. Visualizations like scatter plots and box plots are generated to illustrate relationships and distributions, aiding in the interpretation of results and drawing meaningful conclusions about satellite lifetimes and related factors.               
 
 ## 💼 Stakeholder Interest
 - Knowing about what affects the life of a satellite allows for better mission planning, including scheduling replacements or adjustments to ensure continuous and reliable satellite coverage.
